@@ -184,7 +184,7 @@ This helps MBA students understand:
 
 Once completed, each notebook prints:
 
-```
-Linear Regression module complete.
-Classification module complete.
-```
+
+🎊Linear Regression module complete.
+🎊Classification module complete.
+
