@@ -170,7 +170,7 @@ This contains the **data cleaning workbook** and explanations.
 
 ## **📁 /03-Model-Selection**
 
-This folder introduces the 3 important ML families:
+This folder introduces the 2 important Supervised ML families:
 
 ### ✔ **Linear Regression**
 
@@ -179,10 +179,6 @@ For predicting continuous values (e.g., sales, profit)
 ### ✔ **Classification**
 
 For predicting labels (e.g., churn: yes/no)
-
-### ✔ **Clustering**
-
-For grouping similar customers (unsupervised learning)
 
 ---
 
@@ -197,7 +193,7 @@ Example files:
 
 * `linear_regression.ipynb`
 * `classification.ipynb`
-* `clustering.ipynb`
+
 
 ---
 
