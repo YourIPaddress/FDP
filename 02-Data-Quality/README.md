@@ -183,16 +183,10 @@ Once everything is completed, you will see:
 Preprocessing Complete!
 ```
 
-Your dataset is now clean and machine-ready.
+Your dataset is now clean and machine-ready 🎉
 
 ---
 
-If you want, I can now generate:
-
-✔ A **Model Building Workbook (Regression)**
-✔ A **Classification Workbook (Yes/No prediction)**
-✔ A **Clustering Workbook (Customer Segmentation)**
-✔ A **README.md for each module**
 
 
 
