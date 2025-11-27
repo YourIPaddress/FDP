@@ -48,7 +48,7 @@ sudo apt install git
 
 ---
 
-### ## 2.2 Create a **GitHub Account**
+## 2.2 Create a **GitHub Account**
 
 You need this to access and store your projects.
 
@@ -57,7 +57,7 @@ Create your account:
 
 ---
 
-### ## 2.3 Install **Python (3.10 or above)**
+## 2.3 Install **Python (3.10 or above)**
 
 Download from:
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
@@ -66,7 +66,7 @@ Download from:
 
 ---
 
-### ## 2.4 Install **Jupyter Notebook / JupyterLab**
+## 2.4 Install **Jupyter Notebook / JupyterLab**
 
 Open a terminal (CMD / PowerShell / Terminal) and run:
 
