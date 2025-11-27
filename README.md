@@ -262,11 +262,17 @@ Then click on any `.ipynb` file to open and run it.
 By the end of the workshop, participants will be able to:
 
 ✔ Understand data cleaning
+
 ✔ Build simple regression, classification, clustering models
+
 ✔ Interpret model results
+
 ✔ Read plots and explain insights
+
 ✔ Work with Jupyter Notebook
+
 ✔ Apply ML thinking in business settings
+
 
 ---
 
