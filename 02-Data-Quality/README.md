@@ -1,5 +1,5 @@
 
-# 📘 **README.md — DATA PREPROCESSING WORKBOOK**
+# 📘 **DATA PREPROCESSING WORKBOOK**
 
 This workbook introduces the most important steps in **Data Preprocessing**, using a simple and guided Python template.  
 It is designed for learners from **non-coding backgrounds**, such as MBA students and faculty.
