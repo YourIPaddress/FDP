@@ -1,12 +1,10 @@
-Here is a **clean, professional, beginner-friendly, MBA-friendly README.md** for your entire repository.
-It starts from **zero setup** (install Git → create GitHub account → install Python → install Jupyter → install dependencies)** and then explains **each folder step-by-step** in a simple way.
 
 ---
 
-# 🧠 **Machine Learning Mini-Workshop – Complete Repository Guide**
+# 🧠 **Machine Learning Faculty Development Program – Complete Repository Guide**
 
 Welcome to the **Machine Learning Mini-Workshop Repository**!
-This workshop is designed especially for **MBA students and non-technical learners** who want a simple, practical, and visual introduction to Machine Learning.
+This workshop is designed especially for **MBA practitioner and non-technical learners** who want a simple, practical, and visual introduction to Machine Learning.
 
 This README will guide you from **installation to running notebooks**, and walk you through **every folder** in this repository.
 
@@ -130,7 +128,7 @@ Each folder represents a complete part of the learning pipeline.
 
 ---
 
-## **📁 /01_Data_Collection**
+## **📁 /01-Data-Discovery**
 
 This folder covers how to **find datasets and research papers**.
 
@@ -149,7 +147,7 @@ This folder covers how to **find datasets and research papers**.
 
 ---
 
-## **📁 /02_Data_Preprocessing**
+## **📁 /02-Data-Quality**
 
 This contains the **data cleaning workbook** and explanations.
 
@@ -170,7 +168,7 @@ This contains the **data cleaning workbook** and explanations.
 
 ---
 
-## **📁 /03_Model_Building**
+## **📁 /03-Model-Selection**
 
 This folder introduces the 3 important ML families:
 
@@ -203,7 +201,7 @@ Example files:
 
 ---
 
-## **📁 /04_Training**
+## **📁 /04-Training-Validation**
 
 This section focuses on how models learn.
 
@@ -221,7 +219,7 @@ Files:
 
 ---
 
-## **📁 /05_Validation**
+## **📁 /05-Production-Readiness**
 
 This folder shows how to evaluate models properly.
 
