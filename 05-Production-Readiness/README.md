@@ -12,7 +12,83 @@ This evaluation focuses on:
 
 ---
 
-## ✅ Evaluation Metrics Used
+---
+
+# 📌 Understanding TP, TN, FP, FN
+
+These four values form the basis of all classification metrics.
+
+---
+
+### 🟩 **TP — True Positive**
+**Definition:**  
+Model predicted **Yes** and the actual value was **Yes**.
+
+**Sales example:**  
+Model says: “Target will be hit” → Target **was** hit.
+
+**Business meaning:**  
+✔ Good prediction  
+✔ Helps trust the model’s positive forecasts  
+
+---
+
+### 🟦 **TN — True Negative**
+**Definition:**  
+Model predicted **No** and the actual value was **No**.
+
+**Sales example:**  
+Model says: “Target will NOT be hit” → Target **was not** hit.
+
+**Business meaning:**  
+✔ Prevents overproduction  
+✔ Saves inventory & marketing costs  
+
+---
+
+### 🟥 **FP — False Positive**
+**Definition:**  
+Model predicted **Yes** but the actual value was **No**.
+
+**Sales example:**  
+Model says: “We will hit the target” → Target **was not** hit.
+
+**Business risk:**  
+⚠️ Overconfidence  
+⚠️ Overstocking  
+⚠️ Wasted budget  
+(Also called **Type I Error**)  
+
+---
+
+### 🟨 **FN — False Negative**
+**Definition:**  
+Model predicted **No** but the actual value was **Yes**.
+
+**Sales example:**  
+Model says: “We will NOT hit the target” → Target **was hit**.
+
+**Business risk:**  
+⚠️ Missed opportunity  
+⚠️ Underproduction  
+⚠️ Lost sales  
+(Also called **Type II Error**)  
+
+---
+
+# 📌 Summary Table
+
+| Term | Meaning | Sales Example | Business Impact |
+|------|---------|---------------|------------------|
+| **TP** | Predicted Yes, Actual Yes | Hit predicted & hit occurred | ✔ Good |
+| **TN** | Predicted No, Actual No | Not hit predicted & not hit | ✔ Good |
+| **FP** | Predicted Yes, Actual No | Predicted hit but missed | ⚠️ Overstock, wasted budget |
+| **FN** | Predicted No, Actual Yes | Predicted no but actually hit | ⚠️ Missed revenue |
+
+---
+
+
+## Evaluation Metrics Used
 
 ### **1. Accuracy**
 Measures the overall correctness of the model.
@@ -135,6 +211,3 @@ The evaluation metrics collectively show:
   - Budget allocation  
 
 ---
-
-## 📁 Files in This Folder
-
