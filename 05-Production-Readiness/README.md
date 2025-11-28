@@ -155,7 +155,7 @@ A 2x2 table showing how predictions align with actual outcomes.
 
 $$
 \begin{array}{c|cc}
- & \text{Predicted No} & \text{Predicted Yes} \\\hline
+ & \text{Predicted No} & \text{Predicted Yes} \\\
 \text{Actual No} & TN & FP \\
 \text{Actual Yes} & FN & TP
 \end{array}
@@ -191,4 +191,5 @@ $$
 # 🎉 Final Takeaway
 
 These evaluation metrics collectively show whether the model is accurate, reliable, business-safe, and suitable for **real-world sales forecasting**.
+
 
