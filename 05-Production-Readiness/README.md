@@ -1,7 +1,7 @@
-# Step 5 – Model Evaluation (Sales Data: Hit_Target Yes/No)
+# Step 5 – Model Evaluation
 
 This section explains all evaluation metrics used to assess the performance of the classification model.  
-Designed in an MBA-friendly way with simple language, clear math, and business meaning.
+
 
 ---
 
@@ -191,3 +191,4 @@ $$
 # 🎉 Final Takeaway
 
 These evaluation metrics collectively show whether the model is accurate, reliable, business-safe, and suitable for **real-world sales forecasting**.
+
